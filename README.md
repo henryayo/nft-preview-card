@@ -9,8 +9,8 @@
 
 ### Links
 
-- Solution URL: [https://github.com/henryayo/qr-code-component](https://github.com/henryayo/qr-code-component)
-- Live Site URL: [https://henryayo.github.io/qr-code-component/](https://henryayo.github.io/qr-code-component/)
+- Solution URL: [https://github.com/henryayo/nft-preview-card](https://github.com/henryayo/nft-preview-card)
+- Live Site URL: [https://henryayo.github.io/nft-preview-card/](https://henryayo.github.io/nft-preview-card/)
 
 
 ### Built with
